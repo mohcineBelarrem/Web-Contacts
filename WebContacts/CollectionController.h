@@ -11,7 +11,7 @@
 #import "TableController.h"
 
 
-//The controller responsible for the collectionView
+//The controller responsible for the collectionView 
 
 @interface CollectionController : UICollectionViewController <UICollectionViewDataSource,UICollectionViewDelegate>
 
