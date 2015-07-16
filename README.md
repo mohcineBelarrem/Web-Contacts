@@ -5,3 +5,4 @@ parses it and shows it to the user in a UICollectionView and each time the user 
 he's taken to a UITableView to see the contact in detail (phone,email,ssn...).
 There's also a local serach engine that needs to be implemented so that we can search for contacts.
 
+If u wanna see how the result looks like check the issues.
