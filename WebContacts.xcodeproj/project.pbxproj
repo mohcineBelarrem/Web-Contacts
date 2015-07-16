@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B58DEF91B57771E00D71B9D /* SearchEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B58DEF81B57771E00D71B9D /* SearchEngine.m */; };
 		4B8124F41B556A4400621B92 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B8124F31B556A4400621B92 /* main.m */; };
 		4B8124F71B556A4400621B92 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B8124F61B556A4400621B92 /* AppDelegate.m */; };
 		4B8124FA1B556A4400621B92 /* MasterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B8124F91B556A4400621B92 /* MasterController.m */; };
@@ -32,6 +33,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4B58DEF71B57771E00D71B9D /* SearchEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchEngine.h; sourceTree = "<group>"; };
+		4B58DEF81B57771E00D71B9D /* SearchEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchEngine.m; sourceTree = "<group>"; };
 		4B8124EE1B556A4400621B92 /* WebContacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebContacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B8124F21B556A4400621B92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B8124F31B556A4400621B92 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -145,6 +148,8 @@
 				4BA54FEE1B55954600BA0ADB /* CollectionController.m */,
 				4BA833D21B55C1AC00354B3B /* TableController.h */,
 				4BA833D31B55C1AC00354B3B /* TableController.m */,
+				4B58DEF71B57771E00D71B9D /* SearchEngine.h */,
+				4B58DEF81B57771E00D71B9D /* SearchEngine.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -274,6 +279,7 @@
 				4B8124FA1B556A4400621B92 /* MasterController.m in Sources */,
 				4B8124F71B556A4400621B92 /* AppDelegate.m in Sources */,
 				4B8124F41B556A4400621B92 /* main.m in Sources */,
+				4B58DEF91B57771E00D71B9D /* SearchEngine.m in Sources */,
 				4B8125251B557DAF00621B92 /* Retriever.m in Sources */,
 				4B8125221B557AC300621B92 /* ContactsBook.m in Sources */,
 			);

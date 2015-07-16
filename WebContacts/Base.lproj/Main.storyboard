@@ -232,7 +232,7 @@
         <!--Search-->
         <scene sceneID="a6F-Rh-nEn">
             <objects>
-                <viewController title="Search" id="rCH-rT-pLa" sceneMemberID="viewController">
+                <viewController title="Search" id="rCH-rT-pLa" customClass="SearchEngine" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="RRf-50-rcy"/>
                         <viewControllerLayoutGuide type="bottom" id="BLp-ZA-1O0"/>
